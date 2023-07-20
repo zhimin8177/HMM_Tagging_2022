@@ -1,0 +1,58 @@
+应 用 生 态 学 报 2019 年 5 月 第 30 卷 第 5 期  http : / / www ． cjae ． net Chinese Journal of Applied Ecology ， May 2019 ， 30 ( 5 ) : 1783 － 1796 DOI : 10 ． 13287 / j ． 1001 － 9332 ． 201905 ． 003 
+长白山 地区 自然科学 研究 综述 : 1956 — 2018 
+刘雅 各 张茂亮 关德新 宋秀芳 袁凤辉 吴家兵 王安志 
+( 1 中国科学院 沈阳 应用 生态 研究所 ， 中国科学院 森林 生态 与 管理 重点 实验室 ， 沈阳 110016 ; 2 中国科学院 大学 ， 北京 100049 ; 
+3 天津 大学 表层 地球 系统 科学 研究院 ， 天津 300072 ; 4 中国科学院 文献 情报 中心 ， 北京 100190 ; 5 中国科学院 大学 管理 学院 图 
+书 情报 与 档案 管理 系 ， 北京 100190 ) 
+摘 要 以 国际 ( WOS ) 、 国内 ( CNKI 、 CSCD ) 数据库 中 收录 的 长白山 自然科学 研究 文献 为 基础 ， 利用 知识 图谱 与 文献 计量 学 方法 对 长白山 地区 1956 — 2018 年 开展 的 科学 研究 进行 综述 ． 
+结果 表明 : 1956 — 2018 年 ， 长白山 地区 自然科学 研究 经历 了 萌芽 期 、 成长期 和 快速 发展 时期 ， 形成 了 以 森林 与 生态 科学 、 火山 与 地质 科学 、 环境 变化 科学 、 资源 科学 及 开发 利用 、 动物 与 微生物 科学 为主 的 五大 研究 领域 ， 共 20 个 主要 研究 方向 ． 2000 年 以来 ， 森林 与 生态 科学 、 火山 与 地质 科学 和 环境 变化 科学 成为 长白山 地区 的 研究 热点 ， 主要 集中 在 群落 生态学 、 森林 经营 学 、 土壤 生态学 、 生态系统 生态学 、 生态 气候 学 、 森林 响应 环境 变化 、 火山 地质学 7 条 主线 上 ， 国际 研究 更 呈现 学科 交叉 融合 的 态势 ． 未来 10 年 ， 国内 与 国际 长白山 科学 研究 除 在 原有 热点 领域 上 不断 深耕 外 ， 老龄 林 及 大 尺度 生态系统 碳 过程 、 森林 - 海拔 - 气候 变化 、 土壤 动物 与 微生物 、 森 林 经营 与 人类 活动 、 生物 多样性 、 火山 起源 与 喷发 历史 、 火山 喷发 动力学 与 火山 监测 等 方面 将 是 研究 重点 ． 学科 交叉 化 、 尺度 两 极化 、 内容 深入 化 、 要素 多样化 将 是 未来 研究 的 发展 趋势 ． 
+关键词 长白山 ; 森林 生态学 ; 火山 地质学 ; 气候 变化 ; 土壤 微生物 ; 植物 资源 ; CiteSpace 
+Natural science research in Changbai Mountain during 1956 － 2018 : A review ． LIU Ya - ge 1 ， 2 ， ZHANG Mao - liang 3 ， GUAN De - xin 1 ， SONG Xiu - fang 4 ， 5 ， YUAN Feng - hui 1 ， WU Jia - bing 1 ， WANG An - zhi 1 * ( 1 Key Laboratory of Forest Ecology and Management ， Institute of Applied Ecology ， Chi - nese Academy of Sciences ， Shenyang 110016 ， China ; 2 University of Chinese Academy of Sciences ， Beijing 100049 ， China ; 3 Institute of Surface - Earth System Science ， Tianjin University ， Tianjin 300072 ， China ; 4 National Science Library ， Chinese Academy of Sciences ， Beijing 100190 ， China ; 5 Department of Library ， Information and Archives Management ， School of Economics and Manage - ment ， University of Chinese Academy Sciences ， Beijing 100190 ， China ) ． 
+Abstract : We synthesized the scientific research carried out in Changbai Mountain from 1956 to 2018 by mapping knowledge domains and bibliometrics based on the literature from international database ( WOS ) and domestic databases ( CNKI and CSCD ) ． The results showed that natural sci - ence research in Changbai Mountain underwent three stages during 1956 － 2018 ， including embryo stage ， growing stage ， and rapid development stage ． The natural research in Changbai Mountain could be divided into five fields ， i ． e ． ， forest and ecological science ， volcano and geology science ， environmental change science ， resource sciences and utilization ， animal and microbial science ， with a total of 20 main research directions ． Since 2000 ， forest and ecological science ， volcano and geological science ， environmental change science dominated the natural science research in Chang - bai Mountain ． The researches in recent 20 years mainly concentrated on the following seven disci - plines : community ecology ， forest management ， soil ecology ， ecosystem ecology ， eco - climatology ， forest responses to environmental change ， and volcanic geology ． International researches showed a trend of strong integration of different disciplines ． We forecast that the natural science research in the Changbai Mountain would deepen its research in the next decade ． Moreover ， other fields such as 
+本文 由 国家 自然科学 基金 项目 ( 31770755 ， 31870625 ， 41675112 ， 31670707 ) 资助 This work was supported by the National Natural Science Founda - tion of China ( 31770755 ， 31870625 ， 41675112 ， 31670707 ) ． 
+2019 - 02 - 15 Ｒeceived ， 2019 - 04 - 04 Accepted ． 
+* 通讯 作者 Corresponding author ． E - mail : waz @ iae ． ac ． cn 
+old - growth forest and large - scale ecosystem carbon processes ， forest - altitude - climate change ， soil fauna and microorganisms ， forest management and human activities ， biodiversity ， volcanic origin and eruption history ， volcanic eruption dynamics and volcanic monitoring will emerge as the new research focus ． Scale polarization ， elements diversification ， discipline crossing ， and research deep - ening would be the future trend of natural science research in Changbai Mountain ． 
+Key words : Changbai Mountain ; forest ecology ; volcanic geology ; climate change ; soil microor - ganism ; plant resource ; CiteSpace ． 
+长白山 是 欧亚 大陆 东 缘 的 最高 山系 ， 也是 我国 自然 生态系统 保存 最为 完整 的 地区 之一 ［ 1 ］ ． 长白山 拥有 丰富 的 森林 和 生物 资源 ， 同时 也是 东北亚 地区 规模 最大 也 最 活跃 的 火山 群 之一 ［ 2 ］ ． 特别 是 生态系统 随 海拔 呈现 明显 的 垂直 分布 带 谱 及 典型 的 火山 地质 地貌 ， 成为 亚洲 乃至 世界 不可 取代 的 重要 科学 研究 基地 ［ 3 ］ ． 20 世纪 50 年代 以来 ， 一代 又 一代 的 科研工作者 对 长白山 的 森林 、 生态 、 资源 、 地质 等 领域 开展 了 全面 深入 的 研究 ［ 4 ］ ， 这些 研究 成果 为 我国 科学 事业 提供 了 宝贵 的 知识 财富 ， 也 使 长白山 成为 世界 自然科学 研究 的 重要 基地 ． 
+长白山 是 一 部 “ 天书 ” ， 从 第一 篇 有关 长白山 的 科学 文献 发表 至今 已 有 62 年 ( 1956 — 2018 ) ． 62 年 来 我们 对 这 部 “ 天书 ” 读 得 怎样 ? 我们 是 怎么 读 的 ? 未来 我们 要 如何 继续 ? 本 研究 利用 知识 图谱 与 文献 计量 学 方法 ， 以 文献 作为 数据 ， “ 用 数据 说话 ” ， 以 客观 的 角度 探究 长白山 自然科学 研究 的 发展 历程 、 研究 现状 和 未来 展望 ． 
+1 数据 与 方法 
+1 . 1 研究 数据 
+本 研究 分别 从 国内 文献 、 国际 文献 两 方面 进行 数据 收集 ． 国际 文献 选取 Web of Science 核心 合集 数据库 ( WOS ) 进行 检索 ， WOS 是 国际 最 权威 的 学术 研究 数据库 ， 收录 了 英文 核心 期刊 ( SCI ) 的 所有 文献 ; 国内 文献 选取 中国 学术 期刊 全文 数据库 ( CNKI ) 和 中国 科学 引文 数据库 ( CSCD ) 进行 检索 ， CNKI 数据库 收录 中文 文献 时间 跨度 长 、 学科 覆盖 广 ， CSCD 数据库 仅 收录 中文 核心 期刊 ， 文献 质量 较 高 且 包含 引文 信息 ． 
+对于 Web of Science 核心 合集 数据库 ， 检索 式 为 TS = ( changbai * or “ chang bai ” or chang - bai * or paektu * or paekdu * or baitou * or baekdu * ) ， 检索 时间 范围 为 1900 — 2018 年 ， 索 引为 SCI - EX - PANDED 、 SSCI 、 CPCI - S ; 检索 日期 为 2019 年 2 月 15 
+日 ， 精炼 后 最终 获得 1056 篇 文献 ． 对于 中国 学术 期刊 全文 数据库 ( CNKI ) ， 检索 主题词 为 “ 长白山 ” ， 检 
+索 时间 范围 设定 为 1915 — 2018 年 ， 选取 基础科学 、 工程 科技 Ⅰ 辑 、 工程 科技 Ⅱ 辑 、 农业 科技 、 医药 卫生 科技 学科 范围 ; 检索 日期 为 2019 年 1 月 24 日 ， 共 查 
+询 到 4910 篇 文献 ， 人工 筛 查 剔除 不 具备 科研 价值 的 文献 后 最终 入选 4273 篇 文献 ． 对于 中国 科学 引文 数据库 ( CSCD ) ， 检索 式 为主 题词 = ( “ 长白山 ” ) ， 检索 时间 范围 为 1989 — 2018 年 ， 检索 日期 为 2019 年 1 月 24 日 ， 精炼 后 最终 获得 1962 篇 文献 ． 
+1 . 2 研究 方法 
+1 . 2 . 1 文献 共 词 分析 文献 的 关键词 ( key word ) 是 文献 研究 主题 的 高度 概括 ． 科学 术语 ( term ) 是 文献 研究 内容 的 集中 体现 ， 它 是 从 文章 标题 、 关键词 、 摘要 和 附加 关键词 中 提取 的 名 词性 短语 ( noun phrase ) ， 经过 筛选 得到 的 科学 名词 短语 ． 共 词 分析 ( co - word analysis ) 是 对 关键词 ( 科学 术语 ) 两 两 统计 其 在 多少 篇 文献 中 共同 出现 ［ 5 ］ ， 共 现 次数 越 多 ， 说明 其 所 代表 的 研究 内容 联系 越 紧密 ． 将 共 词 关系 通过 网络 分析 方法 绘制 成 共 词 网络 ( co - network ) ， 就 能 获得 科学 知识 主题 的 分布 与 结构 ． 
+1 . 2 . 2 文献 共 被 引 分析 若 参考 文献 A 与 参考 文献 B 同时 被 文献 C 引用 ， A 与 B 为 共 被 引 关系 ( co - ci - tation ) ， 文献 C 称为 施引 文献 ( citing papers ) ． 将 研究 数据 集 作为 施引 文献 集 ， 绘制 其 全部 参考 文献 的 共 被 引 网络 ， 这个 过程 称为 文献 共 被 引 分析 ( co - cita - tion analysis ) ． 文献 的 共 被 引 分析 能够 获悉 研究 领域 的 发展 脉络 与 研究 热点 ． 
+1 . 2 . 3 文献 突现 分析 文献 在 一定 时间 内 引用 频率 发生 激增 称为 文献 突现 ( citation burst ) ， 突现 的 文献 通常 标志 着 科学 研究 的 突破性 进展 ， 从而 引领 科学 前沿 甚至 产生 新 的 研究 方向 ． 
+1 . 3 数据 处理 
+按照 “ DEAN ” 流程 ［ 6 ］ 对 数据 进行 清洗 ． 对 WOS 和 CNKI 数据 集 进行 发文 时间 分析 和 文献 共 词 分析 ， 对 WOS 和 CSCD 数据 集 进行 文献 共 被 引 分析 和 文献 突现 分析 ( 图 1 ) ． 利用 美国 Drexel University 的 Chen ［ 7 ］ 团队 开发 的 科学 引文 分析 工具 CiteSpace ( 5 ． 3 ． Ｒ 8 ) 进行 数据 分析 ． CiteSpace 是 目前 最为 流行 
+表 1 分析 参数 设置 与 聚 类 值 
+Table 1 Analysis parameter settings and clustering values 
+分析 过程 
+Analysis process 数据 集 
+Database 时间 范围 Time range 时间 切片 Time per slice ( a ) 分析 阈 值 设置 
+Selection criteria 修剪 算法 
+Pruning 聚 类 Q 值 Modularity Q 平均 轮廓 值 Mean silhouette 
+国内 关键词 共 现 分析 CNKI 1956 — 2018 5 Top N = 80 Pathfinder 0 ． 833 0 ． 449 
+Co - keyword analysis in domestic    
+research    
+国际 科学 术语 共 词 分析 
+Co - term analysis in international WOS 1991 — 2018 2 ( c ， cc ， ccv ) = 2 ， 2 ， 5 ; 2 ， 2 ， 10 ; 2 ， 3 ， 50 － 0 ． 753 0 ． 424 
+research    
+国内 文献 共 被 引 分析 CSCD 2000 — 2018 3 Top N = 120 Pathfinder 0 ． 926 0 ． 461 
+Co - citation analysis in domestic    
+research    
+国际 文献 共 被 引 分析 WOS 2000 — 2018 3 Top N = 150 Pathfinder 0 ． 952 0 ． 392 
+Co - citation analysis in international    
+research    
+的 知识 图谱 绘制 工具 之一 ［ 8 ］ ， 通过 多元 、 分时 、 动态 的 网络 分析 可视化 技术 绘制 一个 研究 主题 内 的 知识 图谱 ， 从而 探查 该 主题 内 科学 知识 的 演化 过程 、 关键 节点 与 未来 趋势 ［ 9 ］ ． 分析 参数 设置 与 聚 类 结果 见 表 1 ． 
+2 长白山 自然科学 研究 发展 历程 与 阶段 划分 
+科学 文献 是 科学 研究 的 成果 体现 和 量化 指标 ［ 10 ］ ， 以 文献 发表 的 时间 和 数量 变化 进行 学科 发展 历程 与 阶段 划分 具有 科学 意义 ． 分析 国内外 不同 时期 有关 长白山 研究 文献 的 数量 变化 ， 并 将 其 与 数据库 发文 总量 进行 对比 ， 可以 发现 长白山 科学 研究 的 发展 与 我国 总体 科学 发展 的 历程 相似 ( 图 2 ) ． 按照 文献 发表 数量 ， 结合 历史 事件 与 专家 知识 ， 将 长白山 自然科学 发展 分为 3 个 历史 阶段 : 萌芽 期 ( 1956 — 
+图 1 研究 流程 图 
+Fig ． 1 Analysis process ． 
+1977 年 ) 、 成长期 ( 1978 — 1994 年 ) 和 快速 发展 期 ( 1995 年 至今 ) ． 
+2 . 1 萌芽 期 ( 1956 — 1977 年 ) 
+虽然 长白山 研究 的 科学 文献 可 追溯 至 建国 前 ［ 11 ］ ， 但 由于 战争 等 因素 ， 科学 文献 十分 零散 且 不 具备 连续性 ． 新中国 建立 后 ， 百废待兴 ， 直至 1956 年 ， 随着 《 1956 — 1967 年 全国 科学 技术 发展 远景 规划 》 ［ 12 ］ 的 提出 ， 我国 开始 重视 科学 技术 发展 ． 1957 年 ， 第一 篇 较为 规范 的 长白山 科学 研究 文献 发表 ［ 13 ］ ( 成文 于 1956 年 ) ， 标志 着 长白山 研究 正式 展开 ． 此 阶段 长白山 研究 主要 着眼于 以下 3 方面 : 1 ) 植被 、 土壤 等 自然环境 与 资源 综合 调查 ． 2 ) 树种 及 森林 特 
